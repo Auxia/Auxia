@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shivraj Singh Bhathal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auxia&label=Profile%20views&color=0e75b6&style=flat" alt="auxia" /> </p>
 
-<p align="left"> <a href="https://twitter.com/auxiaftw" target="blank"><img src="https://img.shields.io/twitter/follow/auxiaftw?logo=twitter&style=for-the-badge" alt="auxiaftw" /></a> </p>
-
-- 🌱 I’m currently learning **ReactNative, ML**
+<!-- <p align="left"> <a href="https://twitter.com/auxiaftw" target="blank"><img src="https://img.shields.io/twitter/follow/auxiaftw?logo=twitter&style=for-the-badge" alt="auxiaftw" /></a> </p> -->
 
 - 📫 How to reach me **sbhathal12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/auxiaftw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="auxiaftw" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/auxiaftw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="auxiaftw" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/shivraj singh bhathal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shivraj singh bhathal" height="30" width="40" /></a>
 </p>
 
